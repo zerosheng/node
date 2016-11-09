@@ -1,14 +1,14 @@
 # 笔记
-[2016年11月7号上午，Linux 基本操作](../dd/20161107.md)
+[2016年11月7号上午，Linux 基本操作](dd/20161107.md)
 
-- [2016年11月8号上午, Github 入门](../dd/20161108.md)
+- [2016年11月8号上午, Github 入门](dd/20161108.md)
 
-- [2016年11月9号上午，git/github 基本操作](../dd/1109.md)
+- [2016年11月9号上午，git/github 基本操作](dd/1109.md)
 [百度](http://www.baidu.com)
 
 **hahaha**
 
-![](/2.jpg)
+![](dd/2.jpg)
 
 ```js
 console.log('aaaa')
