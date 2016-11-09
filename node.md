@@ -40,6 +40,4 @@ console.log('aaaa')
 | Item One       | Item Two       |SDFSAD|
 | Item One       | Item Two       |SDFSAD|
 
-![]()
-****
-**
+!
